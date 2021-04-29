@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My_trial_APK</string>
+    <string name="present_year">Present Year</string>
+    <string name="your_date_of_n_birth">your date of
+                                             birth</string>
+    <string name="yourans">YourAns</string>
+    <string name="age_calculator">Age Calculator</string>
+    <string name="calculate_your_age">Calculate Your Age</string>
+    <string name="_0">0</string>
+    <string name="enter_your_date_of_birth">Enter Your Date Of Birth</string>
+    <string name="age">Age:</string>
+    <string name="calculate_my_age">Calculate My Age</string>
+</resources>
